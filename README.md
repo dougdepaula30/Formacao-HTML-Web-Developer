@@ -15,9 +15,3 @@ Este projeto consiste na criação de um website simples utilizando diversas tag
 ## Estrutura do Projeto
 
 O projeto é composto por um único arquivo HTML com estilização CSS interna. Ao abrir o arquivo no navegador, o usuário pode visualizar o layout estruturado e os diversos elementos HTML aplicados.
-
-## Como Visualizar
-
-1. Faça o download ou clone o repositório:
-   ```bash
-   git clone https://github.com/digitalinnovationone/trilha-html-modulo-1
