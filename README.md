@@ -1,17 +1,45 @@
-# Projeto Website HTML Básico
+# Clínica Médica [Clínica Pediátrica Alegria]
 
-Este projeto consiste na criação de um website simples utilizando diversas tags HTML, conforme os requisitos do desafio proposto. O objetivo é demonstrar o uso de tags básicas e novas tags sugeridas, explorando a semântica do HTML e aplicando estilizações com CSS para um layout mais agradável e elegante.
+Este projeto é um site desenvolvido como parte do Módulo 02 - HTML I - Conceitos Básicos da Trilha HTML da Dio.me. O objetivo é criar um site para uma clínica médica fictícia, aplicando os conceitos aprendidos sobre formulários, estruturação e formatação de texto, mídias e tabelas.
 
-## Funcionalidades
+## Estrutura do Site
 
-- **Uso de tags de cabeçalho:** `<h1>` até `<h6>` para estruturar o conteúdo.
-- **Formatação de texto:** Utilização de `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>` para formatação e destaque.
-- **Listas:** Implementação de listas ordenadas (`<ol>`) e não ordenadas (`<ul>`, `<li>`).
-- **Links e separadores:** Inclusão de links (`<a>`) e separadores (`<hr>`).
-- **Subscrito e sobrescrito:** Uso de `<sub>` e `<sup>` para textos especiais.
-- **Citações:** Emprego de `<blockquote>` para destacar citações.
-- **Novas tags:** Exploração das tags `<font>`, `<del>` e `<abbr>`, demonstrando diferentes efeitos e informações adicionais.
+O site é composto por quatro páginas principais:
 
-## Estrutura do Projeto
+1. **Página Principal:** Apresenta uma breve descrição sobre a clínica.
+2. **Sobre a Clínica:** Fornece informações detalhadas sobre a clínica.
+3. **Horário de Atendimento:** Exibe os serviços oferecidos e uma tabela com os horários de atendimento.
+4. **Contato:** Disponibiliza informações de contato, um mapa com a localização da clínica e um formulário para envio de mensagens.
 
-O projeto é composto por um único arquivo HTML com estilização CSS interna. Ao abrir o arquivo no navegador, o usuário pode visualizar o layout estruturado e os diversos elementos HTML aplicados.
+Cada página segue uma estrutura padrão, composta por:
+
+- **Menu de Navegação:** Links para as quatro páginas principais.
+- **Header:** Uma imagem representativa no topo de cada página.
+- **Content:** Conteúdo específico de cada página.
+- **Footer:** Informações de contato e rodapé padrão.
+
+## Funcionalidades Implementadas
+
+- **Formulários:** Página de contato com campos para nome, e-mail, assunto e mensagem, além de botões para enviar e limpar o formulário.
+- **Estruturação e Formatação de Texto:** Uso adequado de tags HTML para títulos, parágrafos, listas e formatação de texto.
+- **Mídias:** Inclusão de imagens no header de cada página e integração de um mapa do Google Maps na página de contato.
+- **Tabelas:** Apresentação dos horários de atendimento em formato tabular na página correspondente.
+
+## Como Visualizar o Projeto
+
+Para visualizar o site em funcionamento:
+
+1. Clone ou faça o download deste repositório.
+2. Abra o arquivo `index.html` em um navegador web de sua preferência.
+
+## Tecnologias Utilizadas
+
+- **HTML5:** Para a estruturação do conteúdo.
+
+## Observações
+
+Este projeto foi desenvolvido com fins educacionais, visando a prática dos conceitos abordados no curso. Sinta-se à vontade para explorar, modificar e aprimorar o código conforme desejar.
+
+## Créditos
+
+Projeto desenvolvido como parte da Trilha HTML da [Dio.me](https://www.dio.me/). 
